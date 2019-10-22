@@ -1,6 +1,6 @@
 # plaCostCalculator
 Provided that your 3D printer software tells you how much PLA it uses for a print, 
-and you know how much a 1KG of PLA costs not including tax ($20). This program will add the tax for you,
+and you know how much 1KG of PLA costs not including tax. This program will add the tax for you,
 you can use this to tell you how much it costs for a print.
 
 I will continue adding the features listed below to this program in the near future.
